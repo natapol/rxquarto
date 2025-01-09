@@ -1,4 +1,4 @@
-title: CuQuarto
+title: RXQuarto
 author: Natapol Pornputtapong
 version: 1.2.0
 quarto-required: ">=1.5.0"
@@ -20,3 +20,6 @@ contributes:
       template-partials:
         - beamer/title.tex
         - beamer/before-body.tex
+      mainfont: Noto Sans Thai
+      monofont: Arundina Sans Mono
+      mathfont: Kanit
