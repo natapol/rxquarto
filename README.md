@@ -1,4 +1,4 @@
-# Quarto Extension For Biochemistry and Microbiology Department Documents
+# Quarto Extension For Pharmaceutical Sciences Documents
 
 _TODO_: Add a short description of your extension.
 
