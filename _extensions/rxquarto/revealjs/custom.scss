@@ -95,6 +95,11 @@ $blockMargin: 30px;
   color: $charcoal;
 }
 
+// adjust headings
+.reveal .slide h1,
+.reveal .slide h2 {
+  color: $rxgreen;
+}
 
 // code output
 .reveal pre code {
